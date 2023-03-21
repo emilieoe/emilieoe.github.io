@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: https://emilieoe.github.i/about/contact
+title: "Ny Side"
+permalink: https://emilieoe.github.i/Ny
 
 hej hej 
