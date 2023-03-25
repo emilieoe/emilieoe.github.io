@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Jupyter Notebook Analysis
-date: 2023-03-25
+date: 2023-03-25 12:09:46 +0100
 Categories: jekyll update
 ---
 
