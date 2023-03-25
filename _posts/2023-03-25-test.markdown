@@ -1,0 +1,13 @@
+---
+layout: post
+title: My Analysis and Visualizations
+date: 2023-03-25 14:30:00 +0100
+categories: analysis visualization
+---
+
+```python
+# This is a Python code block
+import pandas as pd
+
+#data = pd.read_csv('data.csv')
+#print(data.head())
