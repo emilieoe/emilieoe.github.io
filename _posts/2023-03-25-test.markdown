@@ -4,23 +4,4 @@ title: My Analysis and Visualizations
 date: 2023-03-25
 categories: analysis visualization
 ---
-
-```python
-# Importing libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from datetime import datetime
-
-# Importing data
-crime_data = pd.read_csv('/Users/Emili/Desktop/Social data analyse\Police_Department_Incident_Reports__Historical_2003_to_May_2018.csv')
-
-# Changing formatting in 'Date' and 'Time' columns
-crime_data["Date"] = crime_data["Date"].apply(lambda x: datetime.strptime(x, "%m/%d/%Y") )
-crime_data["Time"] = crime_data["Time"].apply(lambda x: datetime.strptime(x, "%H:%M") )
-
-# Selecting the specific crime
-Data_drug = crime_data[crime_data['Category'] == 'DRUG/NARCOTIC']
-
-print(Data_drug)
-```
+![Alt text](file:///C:/Users/Emili/my_choropleth_map.html)
