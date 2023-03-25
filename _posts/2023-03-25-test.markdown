@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Analysis and Visualizations
+title: Drug related crimes
 date: 2023-03-25
 categories: analysis visualization
 ---
