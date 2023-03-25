@@ -4,4 +4,4 @@ title: My Analysis and Visualizations
 date: 2023-03-25
 categories: analysis visualization
 ---
-![Alt text](file:///C:/Users/Emili/my_choropleth_map.html)
+![Alt text](C:/Users/Emili/my_choropleth_map.html)
