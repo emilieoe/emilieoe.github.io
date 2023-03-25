@@ -21,3 +21,5 @@ crime_data["Time"] = crime_data["Time"].apply(lambda x: datetime.strptime(x, "%H
 
 # Selecting the specific crime
 Data_drug = crime_data[crime_data['Category'] == 'DRUG/NARCOTIC']
+
+Print(Data_drug)```
