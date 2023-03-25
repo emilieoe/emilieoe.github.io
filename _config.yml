@@ -22,8 +22,8 @@ title: Assignment2
 email: Emilie.oe@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ny tekst
-baseurl: /assignment2
-url: https://assignment2.github.io
+baseurl: 
+url:
 twitter_username: jekyllrb
 github_username:  jekyll
 
